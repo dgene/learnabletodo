@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/learnabletodo/static/css/main.f98f9b48.chunk.css",
+    "main.js": "/learnabletodo/static/js/main.23a1abae.chunk.js",
+    "main.js.map": "/learnabletodo/static/js/main.23a1abae.chunk.js.map",
+    "runtime-main.js": "/learnabletodo/static/js/runtime-main.5d383e12.js",
+    "runtime-main.js.map": "/learnabletodo/static/js/runtime-main.5d383e12.js.map",
+    "static/js/2.d4770cf2.chunk.js": "/learnabletodo/static/js/2.d4770cf2.chunk.js",
+    "static/js/2.d4770cf2.chunk.js.map": "/learnabletodo/static/js/2.d4770cf2.chunk.js.map",
+    "index.html": "/learnabletodo/index.html",
+    "static/css/main.f98f9b48.chunk.css.map": "/learnabletodo/static/css/main.f98f9b48.chunk.css.map",
+    "static/js/2.d4770cf2.chunk.js.LICENSE.txt": "/learnabletodo/static/js/2.d4770cf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d383e12.js",
+    "static/js/2.d4770cf2.chunk.js",
+    "static/css/main.f98f9b48.chunk.css",
+    "static/js/main.23a1abae.chunk.js"
+  ]
+}
